@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @FocusCookie
-- 👀 I’m interested in Coding, Design and Product Management
-- 🌱 I’m currently learning clean coding :)
-- 💞️ I’m looking to collaborate on some pair programming or code review partner to learn clean coding concepts.
-- 📫 How to reach me via discord - Username: FocusCookie#1568
+Hi 👋
 
-<!---
-FocusCookie/FocusCookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Stephan, a full-stack web developer who loves to create software products from end to end. The process of building modern, customer-oriented web solutions fascinates me. Out of curiosity, I taught myself how to use Figma to create design systems, mockups, and clickable prototypes to validate new products, features, and ideas. With the desire to bring these ideas to life, I started learning to write clean and professional code.
